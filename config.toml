@@ -218,7 +218,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Kami adalah agensi dan penyedia jasa reklame terkemuka di Desa Tirtomarto, Kabupaten Malang. Kami melayani beragam pesanan. Kami siap melayani Anda dengan profesional.</p>"
     copyright = "Copyright © 2024, AksyaMedia; all rights reserved."
 
     # Format dates with Go's time formatting
