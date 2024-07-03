@@ -2,9 +2,9 @@ baseurl = "https://aksyamedia.store" # Configure URL. if using gh-pages https://
 title = "AksyaMedia"
 theme = "hugo-universal-theme"
 themesDir = "themes/hugo-universal-theme/.."
-languageCode = "en-us"
+languageCode = "en-US"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "id"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "aksyamedia"
 # Enable Google Analytics by entering your tracking code
