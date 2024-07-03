@@ -4,40 +4,24 @@ description = "Tentang Kami"
 keywords = ["tentang kami"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Tentang Kami
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+Selamat datang di AksyaMedia! Kami adalah perusahaan yang bergerak di bidang jasa reklame, percetakan, dan berbagai produk promosi seperti lanyard. Dengan komitmen untuk memberikan kualitas terbaik dan layanan yang memuaskan, kami hadir untuk memenuhi kebutuhan promosi dan branding Anda.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## Layanan Kami
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Kami menawarkan berbagai layanan untuk mendukung kebutuhan promosi bisnis Anda, antara lain:
 
-## 2. WHAT ARE THE POSTAL RATES?
+* **Jasa Reklame**: Dari billboard hingga spanduk, kami menyediakan berbagai jenis media reklame yang efektif dan menarik.
+* **Percetakan**: Layanan percetakan kami mencakup berbagai produk, mulai dari brosur, kartu nama, hingga stiker.
+* **Lanyard**: Kami juga menyediakan lanyard berkualitas tinggi yang dapat disesuaikan dengan desain dan kebutuhan Anda.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## Mengapa Memilih AksyaMedia?
 
-## 3. DO YOU SEND OVERSEAS?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+1. **Pengalaman dan Profesionalisme**: Dengan pengalaman bertahun-tahun, tim kami siap memberikan solusi terbaik untuk kebutuhan promosi Anda.
+2. **Kualitas Terjamin**: Kami menggunakan bahan dan teknologi terbaik untuk memastikan hasil yang memuaskan.
+3. **Pelayanan Pelanggan yang Ramah**: Kami selalu siap membantu dan memberikan layanan terbaik untuk Anda.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> Jika Anda memiliki pertanyaan atau membutuhkan informasi lebih lanjut, jangan ragu untuk menghubungi kami. Tim dukungan pelanggan kami dengan senang hati siap membantu Anda.
